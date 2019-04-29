@@ -12,8 +12,7 @@ O que você precisa para instalar o software e executar o projeto,
 
 <h3>Instalando</h3>
 Clone o projeto para abrir no Visual Studio 2015,
-depois de criar a tabela tbclientes e campos nome,quantidade e descricao no SqlServer 2014 Express configure a string de conexão com a dataset. 
-
+depois de criar a tabela tbclientes e campos nome, quantidade e descricao no SqlServer 2014 Express configure a string de conexão.  
 
 
 <h3>Autor</h3>
